@@ -1,5 +1,5 @@
 ## Tela de Login
-*Minha primeira tela de login com a minha cara.*
+*Minha primeira tela de login.*
 ![Tela de login](img/telalogin.png)
 
 ### Tecnologias Utilizadas:
